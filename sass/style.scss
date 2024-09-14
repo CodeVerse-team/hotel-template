@@ -1,5 +1,3 @@
-//   --﷽--
-
 // import partial files
 @import "./partials/variable";
 @import "./partials/mixin";
@@ -25,7 +23,6 @@ html {
 }
 
 body {
-  max-width: 1200px;
   margin: auto;
   background-color: $white;
   position: relative;
@@ -60,7 +57,6 @@ section {
 
 // =====header element style here=====
 .header {
-  max-width: 1200px;
   width: 100%;
   height: 6rem;
   padding: 1rem 8rem;
